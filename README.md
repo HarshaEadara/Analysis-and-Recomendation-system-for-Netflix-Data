@@ -1,4 +1,4 @@
-# Analysis-and-Recomendation-system-for-Netflix-Data
+# Analysis and Recommendation system for Netflix Data
 This repository contains a comprehensive analysis of Netflix content data and the development of a recommendation system using machine learning. The project incorporates interactive dashboards built in Power BI and Tableau, along with a recommendation model that leverages text-based analysis for suggesting relevant content.
 
 ## Table of Contents
@@ -12,7 +12,7 @@ This repository contains a comprehensive analysis of Netflix content data and th
 - [Contributing](#contributing)
 
 ## Overview
-The project aims to explore and analyze Netflix's content catalog using data visualization and machine learning techniques. It involves three main components:
+The project aims to explore and analyze Netflix's content catalogue using data visualization and machine learning techniques. It involves three main components:
 
 1. **Interactive Dashboards:**
    - A Power BI dashboard providing insights into Netflix's content distribution, rating trends, and popular genres.
@@ -35,7 +35,7 @@ The project aims to explore and analyze Netflix's content catalog using data vis
    - Present actionable insights for enhancing Netflix's content strategy and improving user engagement.
   
 ## Dataset
-The dataset used in this project comes from publicly available information about Netflix's catalog in kaggle. It contains several columns, including:
+The dataset used in this project comes from publicly available information about Netflix's catalog in Kaggle. It contains several columns, including:
 - **Title**: The name of the movie or TV show.
 - **Genre**: The genre(s) associated with the content.
 - **Release Year**: The year the movie or TV show was released.
@@ -124,7 +124,7 @@ To run this project on your local machine, follow these steps:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd Analysis-and-Recomendation-system-for-Netflix-Data
+   cd Analysis-and-Recommendation-system-for-Netflix-Data
    ```
 3. Install Dependencies:
 Make sure you have Python installed. Then install the required libraries:
